@@ -12,7 +12,7 @@
   "dependencies": {
     "@tanstack/react-query": "5.0.5",
     "@uniswap/permit2-sdk": "^1.2.1",
-    "next": "13.5.3",
+    "next": "14.1.1",
     "permissionless": "^0.1.26",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
